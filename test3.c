@@ -8,6 +8,8 @@ main()
 		sum += i;
 		printf("sum = %d\n",sum);
 		printf("HELLO CPE101");
+		printf("HELLO WORLD");
+		printf("HELLO POCKSHIP");
 	}
 }
 
